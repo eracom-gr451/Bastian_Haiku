@@ -19,10 +19,16 @@ html {
     font-family: 'Poiret One', cursive;
     padding-left: 150px;
     padding-top: 200px;
-    height: 100vh;
+    height: 100vh; 
 }
 
 p { color:#FDFEFE  ; }
+
+.mot1 { font-size: 70px; }
+
+.mot2 { font-size: 30px; 
+        color: #noir;
+}
 
 /*
  * Remove text-shadow in selection highlight:
